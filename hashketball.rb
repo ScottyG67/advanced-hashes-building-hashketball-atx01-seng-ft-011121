@@ -4,8 +4,8 @@ require "pry"
 def game_hash
   hash = {
     :home => {
-      :team_name =>"", 
-      :colors => [], 
+      :team_name =>"Brooklin Nets", 
+      :colors => ["Black","white"], 
       :players =>[
         {:player_name =>""},
         {:number =>0},
