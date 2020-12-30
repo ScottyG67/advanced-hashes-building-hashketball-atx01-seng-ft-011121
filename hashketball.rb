@@ -1,7 +1,8 @@
 # Write your code here!
 require "pry"
 
-  game_hash = {
+def game_hash
+  hash = {
     :home => {
       :team_name =>"", 
       :colors => [], 
@@ -33,4 +34,6 @@ require "pry"
         ]
     }
   }
-  
+ 
+ hash 
+end
