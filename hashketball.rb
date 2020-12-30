@@ -40,7 +40,7 @@ def game_hash
         {:points =>26},
         {:rebouds =>11},
         {:assists =>6},
-        {:steals =>0},
+        {:steals =>3},
         {:blocks =>0},
         {:slam_dunks =>0},
                 {:player_name =>"Jason Terry"},
