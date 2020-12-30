@@ -1,6 +1,6 @@
 # Write your code here!
-def game_hash
-  
+require "pry"
+
   game_hash = {
     :home => {
       :team_name =>"", 
@@ -33,4 +33,4 @@ def game_hash
         ]
     }
   }
-end
+  
