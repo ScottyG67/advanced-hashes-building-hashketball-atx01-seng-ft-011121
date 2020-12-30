@@ -48,8 +48,8 @@ def game_hash
         {:shoe =>15},
         {:points =>19},
         {:rebouds =>2},
-        {:assists =>0},
-        {:steals =>0},
+        {:assists =>2},
+        {:steals =>4},
         {:blocks =>0},
         {:slam_dunks =>0},
         ]
